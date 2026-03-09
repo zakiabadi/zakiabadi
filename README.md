@@ -1,23 +1,21 @@
-
-
 # 👋 Hi, I'm Zaki Abadi
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Information+Systems+Graduate;Data+%7C+Automation+%7C+Security;Building+Solutions+With+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Information+Systems+Graduate;Data+%7C+Automation+%7C+AI;Building+Solutions+With+Technology)](https://git.io/typing-svg)
 
 🎓 Information Systems Graduate from Hanyang University  
-💻 Interested in Software Engineering, Data Analytics, and Cybersecurity  
+💻 Interested in Software Engineering, AI, and Cybersecurity  
 📍 Malaysia  
 
-I enjoy building systems that improve business processes, automate workflows, and turn data into actionable insights.
+I enjoy building systems that improve business processes, automate workflows, and apply AI to solve real-world problems.
 
 ---
 
 # 🚀 About Me
 
-- 🎓 Bachelor of Science in Information Systems – Hanyang University (2026)
+- 🎓 Bachelor of Science in Information Systems – Hanyang University
 - 🔬 Research focus: Quantum Computing & Information Systems
 - 💼 IT Infrastructure Intern at Sustio (Simmtech)
-- 📊 Built Power BI dashboards and automated enterprise workflows
+- 📊 Experience building Power BI dashboards and automation workflows
 - 🌏 Multilingual: Malay, English, Korean (TOPIK 4), French (Basic)
 
 ---
@@ -33,7 +31,6 @@ I enjoy building systems that improve business processes, automate workflows, an
 ### Tools & Platforms
 ![Git](https://skillicons.dev/icons?i=git)
 ![Linux](https://skillicons.dev/icons?i=linux)
-![PowerBI](https://skillicons.dev/icons?i=azure)
 
 Technologies I work with:
 
@@ -60,30 +57,42 @@ Technologies I work with:
 
 # 🚀 Featured Projects
 
-### 📊 Printer Cost Analysis Dashboard
-Enterprise print usage analytics dashboard using Power BI.
+## 💤 AI-Based Drowsiness Detection System
+AI-powered computer vision system that detects fatigue using facial cues.
 
-Key Features
+Features
+- Real-time webcam detection
+- Detects eye closure and yawning
+- Binary classification: **Drowsy vs Alert**
+
+Technologies
+- TensorFlow / Keras
+- OpenCV
+- NumPy
+- MobileNetV2 (Transfer Learning)
+
+Dataset
+- NTHU Drowsy Driver Detection Dataset
+
+Demo
+https://youtu.be/9P6hvWNC5dw
+
+---
+
+## 📊 Printer Cost Analysis Dashboard
+Enterprise print usage analytics dashboard built during internship.
+
+Features
 - Department print usage analysis
 - Cost reduction insights
-- Workflow automation integration
+- Visualization dashboards
 
 Tech
 Power BI • Excel • Data Analysis
 
 ---
 
-### 🤖 Intern Automation System
-Automated intern reporting system using Microsoft 365 tools.
-
-Features
-- Automated daily report submissions
-- SharePoint storage integration
-- Workflow automation with Power Automate
-
----
-
-### 🔬 Quantum Computing & Information Systems
+## 🔬 Quantum Computing & Information Systems
 Undergraduate thesis exploring applications of quantum computing in:
 
 - encryption
@@ -93,13 +102,13 @@ Undergraduate thesis exploring applications of quantum computing in:
 
 ---
 
-### 🧴 SkinList – AI Skincare Recommendation App
-AI-powered skincare product recommendation platform.
+## 🧴 SkinList – AI Skincare Recommendation App
+AI-powered skincare recommendation platform.
 
 Features
 - Personalized skincare suggestions
-- Market analysis & revenue projections
-- Survey-based product insights
+- Market analysis and user surveys
+- Revenue projection model
 
 ---
 
@@ -127,8 +136,8 @@ French — Basic (DELF A2)
 # 📫 Connect With Me
 
 📧 Email: zakittowski@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/zaki-abadi-282250216  
+🔗 LinkedIn: https://linkedin.com/in/zaki-abadi-282250216
 
 ---
 
-⭐ *Always learning, building, and improving.*
+⭐ Always learning, building, and improving.
