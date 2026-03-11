@@ -58,12 +58,13 @@ Other Technologies
 
 ## 🚀 Featured Projects
 
-| Project                                          | Description                                                                                                                          | Tech Stack                              | Status        |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- | ------------- |
-| 💤 **AI Drowsiness Detection System**            | Computer vision system that detects driver fatigue in real time using facial cues such as eye closure and yawning.                   | Python, TensorFlow, OpenCV, MobileNetV2 | ✅ Complete    |
-| 📊 **Printer Cost Analysis Dashboard**           | Enterprise analytics dashboard analyzing departmental print usage and identifying cost reduction opportunities during IT internship. | Power BI, Excel, Data Analysis          | ✅ Complete    |
-| 🔬 **Quantum Computing & Information Systems**   | Undergraduate research exploring how quantum computing can impact encryption, optimization, and information systems.                 | Research, Quantum Computing Concepts    | 🔬 Research   |
-| 🧴 **SkinList – AI Skincare Recommendation App** | AI-driven skincare recommendation platform based on user profiles, surveys, and product analysis.                                    | Python, Data Analysis, Market Modeling  | 🏗️ Prototype |
+| Project                                          | Description                                                                                                                    | Tech Stack                              | Link                                                | Status        |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- | --------------------------------------------------- | ------------- |
+| 💤 **AI Drowsiness Detection System**            | Computer vision system that detects driver fatigue using eye closure and yawning detection in real time.                       | Python, TensorFlow, OpenCV, MobileNetV2 | [Repo](https://github.com/ZaKiPan/AI-Drowsiness-Detection) • [Demo](https://youtu.be/9P6hvWNC5dw) | ✅ Complete    |
+| 📊 **Printer Cost Analysis Dashboard**           | Enterprise analytics dashboard analyzing departmental print usage and identifying cost reduction opportunities (~20% savings). | Power BI, Excel, Data Analysis          |                                        | ✅ Complete    |
+| 🔬 **Quantum Computing & Information Systems**   | Undergraduate research exploring applications of quantum computing in encryption, optimization, and information systems.       | Research, Quantum Computing             |                                         | 🔬 Research   |
+| 🧴 **SkinList – AI Skincare Recommendation App** | AI-powered skincare recommendation platform with user survey insights and market analysis.                                     | Python, Data Analysis                   |                                        | 🏗️ Prototype |
+
 
 ---
 
