@@ -1,143 +1,154 @@
-# 👋 Hi, I'm Zaki Abadi
+<h1 align="center">Hi 👋 I'm Zaki Abadi</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Information+Systems+Graduate;Data+%7C+Automation+%7C+AI;Building+Solutions+With+Technology)](https://git.io/typing-svg)
+<p align="center">
+Information Systems Graduate • AI • Automation • Software Engineering
+</p>
 
-🎓 Information Systems Graduate from Hanyang University  
-💻 Interested in Software Engineering, AI, and Cybersecurity  
-📍 Malaysia  
-
-I enjoy building systems that improve business processes, automate workflows, and apply AI to solve real-world problems.
-
----
-
-# 🚀 About Me
-
-- 🎓 Bachelor of Science in Information Systems – Hanyang University
-- 🔬 Research focus: Quantum Computing & Information Systems
-- 💼 IT Infrastructure Intern at Sustio (Simmtech)
-- 📊 Experience building Power BI dashboards and automation workflows
-- 🌏 Multilingual: Malay, English, Korean (TOPIK 4), French (Basic)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Information+Systems+Graduate;Software+Engineering+%7C+AI+%7C+Automation;Building+Technology+Solutions+for+Real+Problems"/>
+</p>
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 About Me
 
-### Programming
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![cpp](https://skillicons.dev/icons?i=cpp)
-![sql](https://skillicons.dev/icons?i=mysql)
+🎓 **Information Systems Graduate — Hanyang University**  
+💻 Interested in **Software Engineering, AI, and Cybersecurity**  
+🔬 Research interest: **Quantum Computing**  
+📊 Experience building **Power BI dashboards & automation systems**  
+🌏 Based in **Malaysia**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql"/>
+</p>
 
 ### Tools & Platforms
-![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux)
 
-Technologies I work with:
+<p>
+<img src="https://skillicons.dev/icons?i=git,linux"/>
+</p>
 
-- Python  
-- SQL  
-- Java  
-- C++  
-- Power BI  
-- SharePoint  
-- Power Automate  
-- Microsoft 365  
-- ERP Systems  
-- NetApp NAS  
+Other Technologies
+
+- Power BI
+- SharePoint
+- Power Automate
+- Microsoft 365
+- ERP Systems
+- NetApp NAS
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Zaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 💤 AI-Based Drowsiness Detection System
-AI-powered computer vision system that detects fatigue using facial cues.
+## 💤 AI Drowsiness Detection System
 
-Features
+AI computer vision system that detects driver fatigue.
+
+**Features**
+
 - Real-time webcam detection
-- Detects eye closure and yawning
+- Eye closure detection
+- Yawning detection
 - Binary classification: **Drowsy vs Alert**
 
-Technologies
-- TensorFlow / Keras
-- OpenCV
-- NumPy
-- MobileNetV2 (Transfer Learning)
+**Tech**
 
-Dataset
-- NTHU Drowsy Driver Detection Dataset
+TensorFlow • OpenCV • NumPy • MobileNetV2
 
-Demo
+🎥 Demo  
 https://youtu.be/9P6hvWNC5dw
 
 ---
 
 ## 📊 Printer Cost Analysis Dashboard
-Enterprise print usage analytics dashboard built during internship.
 
-Features
-- Department print usage analysis
-- Cost reduction insights
-- Visualization dashboards
+Enterprise dashboard developed during internship.
 
-Tech
+**Impact**
+
+- Reduced printing costs by **~20%**
+- Built Power BI dashboards for IT analysis
+- Provided insights into department printing behavior
+
+**Tech**
+
 Power BI • Excel • Data Analysis
 
 ---
 
 ## 🔬 Quantum Computing & Information Systems
+
 Undergraduate thesis exploring applications of quantum computing in:
 
-- encryption
-- optimization
-- big data analytics
-- quantum-safe cryptography
+- Encryption
+- Optimization
+- Big Data Analytics
+- Quantum-safe cryptography
 
 ---
 
 ## 🧴 SkinList – AI Skincare Recommendation App
+
 AI-powered skincare recommendation platform.
 
 Features
-- Personalized skincare suggestions
-- Market analysis and user surveys
+
+- Personalized product recommendations
+- Market research and surveys
 - Revenue projection model
 
 ---
 
 # 💼 Professional Experience
 
-**IT Infrastructure Intern – Sustio (Simmtech)**  
-Penang, Malaysia
+### IT Infrastructure Intern  
+**Sustio (Simmtech)** — Penang
 
-- Analyzed enterprise printer usage and proposed cost reductions (~20% savings)
-- Built Power BI dashboards for IT operations analysis
-- Configured 17 Canon network printers and optimized printing policies
-- Implemented NAS shared folders for production environments
+- Built Power BI dashboards for IT operations
+- Reduced enterprise printing costs by **~20%**
+- Configured **17 network printers**
+- Implemented NAS shared folders for production
 
 ---
 
 # 🌍 Languages
 
-Malay — Native  
-English — Advanced  
-Korean — Intermediate (TOPIK 4)  
-French — Basic (DELF A2)
+🇲🇾 Malay — Native  
+🇬🇧 English — Advanced  
+🇰🇷 Korean — Intermediate (TOPIK 4)  
+🇫🇷 French — Basic (DELF A2)
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email: zakittowski@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/zaki-abadi-282250216
+📧 **Email**  
+zakittowski@gmail.com  
+
+💼 **LinkedIn**  
+https://linkedin.com/in/zaki-abadi-282250216
 
 ---
 
-⭐ Always learning, building, and improving.
+<p align="center">
+⭐ Always learning, building, and improving with technology
+</p>
