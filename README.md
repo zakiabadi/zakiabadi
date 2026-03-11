@@ -5,7 +5,7 @@ Information Systems Graduate • AI • Automation • Software Engineering
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Information+Systems+Graduate;Software+Engineering+%7C+AI+%7C+Automation;Building+Technology+Solutions+for+Real+Problems"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Information+Systems+Graduate;Software+Engineering+%7C+AI+%7C+Data Analytics;Building+Technology+Solutions+for+Real+Problems"/>
 </p>
 
 ---
