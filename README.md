@@ -14,7 +14,7 @@ Information Systems Graduate • AI • Automation • Software Engineering
 
 🎓 **Information Systems Graduate — Hanyang University**  
 💻 Interested in **AI, Data Analytics**  
-📊 Experience building **Power BI dashboards & automation systems**  
+📊 Experience building **Power BI dashboards,automation systems and AI**  
 🌏 Based in **Malaysia**
 
 ---
