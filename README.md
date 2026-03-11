@@ -56,64 +56,14 @@ Other Technologies
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 💤 AI Drowsiness Detection System
-
-AI computer vision system that detects driver fatigue.
-
-**Features**
-
-- Real-time webcam detection
-- Eye closure detection
-- Yawning detection
-- Binary classification: **Drowsy vs Alert**
-
-**Tech**
-
-TensorFlow • OpenCV • NumPy • MobileNetV2
-
-🎥 Demo  
-https://youtu.be/9P6hvWNC5dw
-
----
-
-## 📊 Printer Cost Analysis Dashboard
-
-Enterprise dashboard developed during internship.
-
-**Impact**
-
-- Reduced printing costs by **~20%**
-- Built Power BI dashboards for IT analysis
-- Provided insights into department printing behavior
-
-**Tech**
-
-Power BI • Excel • Data Analysis
-
----
-
-## 🔬 Quantum Computing & Information Systems
-
-Undergraduate thesis exploring applications of quantum computing in:
-
-- Encryption
-- Optimization
-- Big Data Analytics
-- Quantum-safe cryptography
-
----
-
-## 🧴 SkinList – AI Skincare Recommendation App
-
-AI-powered skincare recommendation platform.
-
-Features
-
-- Personalized product recommendations
-- Market research and surveys
-- Revenue projection model
+| Project                                          | Description                                                                                                                          | Tech Stack                              | Status        |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- | ------------- |
+| 💤 **AI Drowsiness Detection System**            | Computer vision system that detects driver fatigue in real time using facial cues such as eye closure and yawning.                   | Python, TensorFlow, OpenCV, MobileNetV2 | ✅ Complete    |
+| 📊 **Printer Cost Analysis Dashboard**           | Enterprise analytics dashboard analyzing departmental print usage and identifying cost reduction opportunities during IT internship. | Power BI, Excel, Data Analysis          | ✅ Complete    |
+| 🔬 **Quantum Computing & Information Systems**   | Undergraduate research exploring how quantum computing can impact encryption, optimization, and information systems.                 | Research, Quantum Computing Concepts    | 🔬 Research   |
+| 🧴 **SkinList – AI Skincare Recommendation App** | AI-driven skincare recommendation platform based on user profiles, surveys, and product analysis.                                    | Python, Data Analysis, Market Modeling  | 🏗️ Prototype |
 
 ---
 
