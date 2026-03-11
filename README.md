@@ -13,8 +13,7 @@ Information Systems Graduate • AI • Automation • Software Engineering
 ## 🚀 About Me
 
 🎓 **Information Systems Graduate — Hanyang University**  
-💻 Interested in **Software Engineering, AI, and Cybersecurity**  
-🔬 Research interest: **Quantum Computing**  
+💻 Interested in **AI, Data Analytics**  
 📊 Experience building **Power BI dashboards & automation systems**  
 🌏 Based in **Malaysia**
 
@@ -41,7 +40,7 @@ Other Technologies
 - Power Automate
 - Microsoft 365
 - ERP Systems
-- NetApp NAS
+
 
 ---
 
